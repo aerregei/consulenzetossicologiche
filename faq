@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FAQ | Domande Frequenti sulla Tossicologia Forense</title>
+
+    <meta name="description"
+        content="Risposte alle domande più frequenti su analisi tossicologiche, patente, analisi del capello, sostanze stupefacenti e consulenze tossicologiche forensi.">
+
+    https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
+
+    <style>
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .hero {
+            background: #17324D;
+            color: white;
+            padding: 80px 0;
+        }
+
+        .section-title {
+            color: #17324D;
+            font-weight: 700;
+        }
+
+        footer {
+            background: #17324D;
+            color: white;
+            padding: 30px 0;
+            margin-top: 60px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+        <a class="navbar-brand fw-bold" href="index.html">
+            Consulenze Tossicologiche
+        </a>
+    </div>
+</nav>
+
+<section class="hero">
+
+    <div class="container">
+
+        <h1>Domande Frequenti</h1>
+
+        <p class="lead mt-3">
+            Risposte alle domande più comuni nell'ambito della Tossicologia Forense.
+        </p>
+
+    </div>
+
+</section>
+
+<section class="container py-5">
+
+    <h2 class="section-title mb-4">
+        FAQ
+    </h2>
+
+    <div class="accordion" id="faqAccordion">
+
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faq1">
+                    Quanto tempo rimangono le sostanze stupefacenti nell'organismo?
+                </button>
+            </h2>
+
+            <div id="faq1" class="accordion-collapse collapse show">
+                <div class="accordion-body">
+                    La permanenza delle sostanze varia in base al tipo di sostanza,
+                    alla frequenza di assunzione, alle caratteristiche individuali e
+                    alla matrice biologica utilizzata per l'analisi.
+                </div>
+            </div>
+        </div>
+
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq2">
+                    Un test di screening positivo equivale sempre a una prova certa?
+                </button>
+            </h2>
+
+            <div id="faq2" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                    No. I test di screening rappresentano un accertamento preliminare e
+                    devono essere interpretati insieme agli eventuali test di conferma.
+                </div>
+            </div>
+        </div>
+
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq3">
+                    A cosa serve l'analisi del capello?
+                </button>
+            </h2>
+
+            <div id="faq3" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                    L'analisi del capello consente di valutare l'esposizione o
+                    l'assunzione di determinate sostanze in un periodo di tempo più
+                    ampio rispetto a sangue o urine.
+                </div>
+            </div>
+        </div>
+
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq4">
+                    È possibile contestare una perizia tossicologica?
+                </button>
+            </h2>
+
+            <div id="faq4" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                    In alcuni casi può essere opportuno sottoporre la documentazione a
+                    una revisione indipendente per valutare aspetti metodologici,
+                    interpretativi o procedurali.
+                </div>
+            </div>
+        </div>
+
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq5">
+                    Quando è utile una Consulenza Tecnica di Parte?
+                </button>
+            </h2>
+
+            <div id="faq5" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                    È particolarmente utile quando un procedimento civile, penale o
+                    amministrativo presenta aspetti tossicologici che richiedono una
+                    valutazione specialistica.
+                </div>
+            </div>
+        </div>
+
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq6">
+                    Posso richiedere una consulenza anche se gli esami sono già stati eseguiti?
+                </button>
+            </h2>
+
+            <div id="faq6" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                    Certamente. In molti casi è possibile effettuare una valutazione
+                    tecnica della documentazione già disponibile senza necessità di
+                    ripetere gli accertamenti.
+                </div>
+            </div>
+        </div>
+
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq7">
+                    Le analisi tossicologiche sono utilizzate per la revisione della patente?
+                </button>
+            </h2>
+
+            <div id="faq7" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                    Sì. In determinate situazioni possono essere richiesti accertamenti
+                    tossicologici nell'ambito delle procedure per il mantenimento o il
+                    rinnovo dell'idoneità alla guida.
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+<section class="container py-5 text-center">
+
+    <h2 class="section-title">
+        Non trovi la risposta che stai cercando?
+    </h2>
+
+    <p class="mt-3">
+        Contatta lo studio per ricevere una valutazione specialistica del tuo caso.
+    </p>
+
+    contatti.html
+        Contattaci
+    </a>
+
+</section>
+
+<footer>
+
+    <div class="container text-center">
+
+        <h5>Consulenze Tossicologiche Forensi</h5>
+
+        <p>Dott.ssa Pascale Basilicata</p>
+
+        <p>info@consulenzetossicologiche.it</p>
+
+    </div>
+
+</footer>
+
+https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.jsscript>
+
+</body>
+
+</html>
