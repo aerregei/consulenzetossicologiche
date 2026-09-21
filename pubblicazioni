@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Pubblicazioni Scientifiche | Dott.ssa Pascale Basilicata</title>
+
+    <meta name="description"
+        content="Attività scientifica e pubblicazioni della Dott.ssa Pascale Basilicata nell'ambito della Tossicologia Forense, Medicina Legale e Scienze Biologiche Forensi.">
+
+    https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
+
+    <style>
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .hero {
+            background: #17324D;
+            color: white;
+            padding: 80px 0;
+        }
+
+        .section-title {
+            color: #17324D;
+            font-weight: 700;
+        }
+
+        .publication-card {
+            border: none;
+            box-shadow: 0 3px 12px rgba(0,0,0,.08);
+            height: 100%;
+        }
+
+        footer {
+            background: #17324D;
+            color: white;
+            padding: 30px 0;
+            margin-top: 60px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+    <div class="container">
+
+        <a class="navbar-brand fw-bold" href="index.html">
+            Consulenze Tossicologiche
+        </a>
+
+    </div>
+
+</nav>
+
+<section class="hero">
+
+    <div class="container">
+
+        <h1>Pubblicazioni Scientifiche</h1>
+
+        <p class="lead mt-3">
+            Ricerca, formazione e attività scientifica nell'ambito della
+            Tossicologia Forense e delle Scienze Biologiche Forensi.
+        </p>
+
+    </div>
+
+</section>
+
+<section class="container py-5">
+
+    <h2 class="section-title mb-4">
+        Attività Scientifica
+    </h2>
+
+    <p>
+        L'attività scientifica della Dott.ssa Pascale Basilicata si concentra
+        sulla tossicologia forense, sull'interpretazione degli accertamenti
+        tossicologici e sulle metodiche analitiche applicate allo studio delle
+        sostanze d'abuso nelle matrici biologiche.
+    </p>
+
+    <p>
+        La partecipazione a progetti di ricerca e la produzione scientifica
+        rappresentano un elemento fondamentale per il continuo aggiornamento
+        professionale e per l'applicazione delle più recenti evidenze
+        scientifiche all'attività consulenziale.
+    </p>
+
+</section>
+
+<section class="container py-4">
+
+    <h2 class="section-title text-center mb-5">
+        Principali Tematiche di Ricerca
+    </h2>
+
+    <div class="row g-4">
+
+        <div class="col-md-4">
+
+            <div class="card publication-card p-4">
+
+                <h4>Tossicologia Forense</h4>
+
+                <p>
+                    Interpretazione degli accertamenti tossicologici
+                    e applicazioni forensi delle metodiche analitiche.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-4">
+
+            <div class="card publication-card p-4">
+
+                <h4>Sostanze d'Abuso</h4>
+
+                <p>
+                    Studio delle matrici biologiche e delle metodiche
+                    di identificazione e conferma analitica.
+                </p>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-4">
+
+            <div class="card publication-card p-4">
+
+                <h4>Medicina Legale</h4>
+
+                <p>
+                    Applicazioni scientifiche e consulenza tecnica
+                    nell'ambito giudiziario e stragiudiziario.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="container py-5">
+
+    <h2 class="section-title mb-5 text-center">
+        Elenco Pubblicazioni
+    </h2>
+
+    <div class="alert alert-primary">
+
+        <strong>Nota:</strong>
+
+        questa sezione verrà progressivamente aggiornata con l'elenco completo delle
+        pubblicazioni scientifiche, degli articoli e dei contributi accademici.
+
+    </div>
+
+    <div class="card publication-card p-4 mb-4">
+
+        <h4>
+            Determinazione di sostanze d'abuso in matrici biologiche
+        </h4>
+
+        <p>
+            Tesi di Dottorato di Ricerca.
+        </p>
+
+        <p>
+            Ricerca dedicata allo studio delle metodiche analitiche per
+            l'identificazione delle sostanze d'abuso nelle matrici biologiche
+            di interesse tossicologico-forense.
+        </p>
+
+    </div>
+
+    <div class="card publication-card p-4 mb-4">
+
+        <h4>
+            Pubblicazioni su Riviste Scientifiche Internazionali
+        </h4>
+
+        <p>
+            Articoli scientifici e contributi relativi alla tossicologia
+            forense, alla medicina legale e alle tecniche analitiche avanzate.
+        </p>
+
+        <p>
+            Elenco dettagliato in aggiornamento.
+        </p>
+
+    </div>
+
+</section>
+
+<section class="container py-5">
+
+    <div class="bg-light rounded p-5">
+
+        <h2 class="section-title">
+            Formazione Continua e Aggiornamento Scientifico
+        </h2>
+
+        <p>
+            L'aggiornamento costante rappresenta uno strumento essenziale
+            per garantire consulenze basate sulle più recenti evidenze
+            scientifiche disponibili.
+        </p>
+
+        <p>
+            L'attività di studio e ricerca consente di mantenere un elevato
+            livello di competenza nell'interpretazione dei dati tossicologici
+            e delle problematiche medico-legali correlate.
+        </p>
+
+    </div>
+
+</section>
+
+<section class="container py-5 text-center">
+
+    <h2 class="section-title">
+        Hai bisogno di una consulenza specialistica?
+    </h2>
+
+    <p class="mt-3">
+        Richiedi informazioni sui servizi offerti e sulle modalità di consulenza.
+    </p>
+
+    contatti.html
+        Contattaci
+    </a>
+
+</section>
+
+<footer>
+
+    <div class="container text-center">
+
+        <h5>Consulenze Tossicologiche Forensi</h5>
+
+        <p>Dott.ssa Pascale Basilicata</p>
+
+        <p>info@consulenzetossicologiche.it</p>
+
+    </div>
+
+</footer>
+
+https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.jsscript>
+
+</body>
+</html>
