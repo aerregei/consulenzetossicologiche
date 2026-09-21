@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Servizi | Consulenze Tossicologiche Forensi</title>
+
+    <meta name="description"
+        content="Consulenze tossicologiche forensi per avvocati, privati, aziende e professionisti. CTP, analisi del capello, revisione patente e interpretazione accertamenti tossicologici.">
+
+    https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .hero {
+            background: #17324D;
+            color: white;
+            padding: 80px 0;
+        }
+
+        .section-title {
+            color: #17324D;
+            font-weight: bold;
+        }
+
+        .service-card {
+            border: none;
+            box-shadow: 0 3px 12px rgba(0,0,0,.08);
+            transition: .3s;
+            height: 100%;
+        }
+
+        .service-card:hover {
+            transform: translateY(-5px);
+        }
+
+        footer {
+            background: #17324D;
+            color: white;
+            padding: 30px 0;
+            margin-top: 60px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+        <a class="navbar-brand fw-bold" href="index.html">
+            Consulenze Tossicologiche
+        </a>
+    </div>
+</nav>
+
+<section class="hero">
+    <div class="container">
+        <h1>Servizi</h1>
+        <p>
+            Consulenze specialistiche nell'ambito della Tossicologia Forense,
+            rivolte a privati, avvocati, professionisti e aziende.
+        </p>
+    </div>
+</section>
+
+<section class="container py-5">
+
+    <h2 class="section-title text-center mb-5">
+        Aree di Consulenza
+    </h2>
+
+    <div class="row g-4">
+
+        <div class="col-md-6">
+            <div class="card service-card p-4">
+                <h3>Consulenze Tecniche di Parte (CTP)</h3>
+
+                <p>
+                    Supporto tecnico-scientifico per procedimenti civili,
+                    penali e amministrativi.
+                </p>
+
+                <ul>
+                    <li>Analisi degli atti</li>
+                    <li>Valutazione delle perizie</li>
+                    <li>Osservazioni tecniche</li>
+                    <li>Assistenza al legale</li>
+                    <li>Redazione di relazioni specialistiche</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card service-card p-4">
+                <h3>Guida in Stato di Ebbrezza</h3>
+
+                <p>
+                    Valutazione specialistica degli accertamenti relativi
+                    all'assunzione di alcol.
+                </p>
+
+                <ul>
+                    <li>Esame dei referti</li>
+                    <li>Analisi alcolemica</li>
+                    <li>Verifica delle procedure</li>
+                    <li>Supporto per la difesa tecnica</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card service-card p-4">
+                <h3>Guida sotto Effetto di Sostanze Stupefacenti</h3>
+
+                <p>
+                    Interpretazione degli accertamenti tossicologici
+                    effettuati in sede stradale o ospedaliera.
+                </p>
+
+                <ul>
+                    <li>Test urinari</li>
+                    <li>Analisi ematiche</li>
+                    <li>Screening e conferme</li>
+                    <li>Valutazione della documentazione</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card service-card p-4">
+                <h3>Analisi del Capello</h3>
+
+                <p>
+                    Consulenza specialistica nella lettura e
+                    interpretazione dei risultati ottenuti
+                    su matrice cheratinica.
+                </p>
+
+                <ul>
+                    <li>Cannabis</li>
+                    <li>Cocaina</li>
+                    <li>Oppiacei</li>
+                    <li>Anfetamine</li>
+                    <li>Interpretazione del referto</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card service-card p-4">
+                <h3>Revisione Patente</h3>
+
+                <p>
+                    Supporto specialistico nei procedimenti
+                    relativi alla verifica dell'idoneità alla guida.
+                </p>
+
+                <ul>
+                    <li>Commissioni Mediche Locali</li>
+                    <li>Interpretazione esami richiesti</li>
+                    <li>Documentazione sanitaria</li>
+                    <li>Valutazione tossicologica</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card service-card p-4">
+                <h3>Consulenza per Aziende</h3>
+
+                <p>
+                    Supporto tecnico nell'ambito degli accertamenti
+                    tossicologici sui lavoratori.
+                </p>
+
+                <ul>
+                    <li>Valutazione accertamenti</li>
+                    <li>Supporto a Medici Competenti</li>
+                    <li>Interpretazione dei risultati</li>
+                    <li>Approfondimenti normativi e tecnici</li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+<section class="container py-5">
+
+    <div class="bg-light p-5 rounded">
+
+        <h2 class="section-title">
+            Consulenza Scientifica Indipendente
+        </h2>
+
+        <p>
+            Ogni incarico viene affrontato con rigore metodologico,
+            attenzione ai dettagli e approfondita conoscenza delle
+            metodiche analitiche applicate alla Tossicologia Forense.
+        </p>
+
+        <p>
+            L'obiettivo è fornire ai clienti e ai professionisti del
+            diritto un supporto tecnico chiaro, comprensibile e
+            scientificamente fondato.
+        </p>
+
+    </div>
+
+</section>
+
+<footer>
+    <div class="container text-center">
+        <h5>Consulenze Tossicologiche Forensi</h5>
+        <p>Dott.ssa Pascale Basilicata</p>
+        <p>info@consulenzetossicologiche.it</p>
+    </div>
+</footer>
+
+https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.jsscript>
+
+</body>
+
+</html>
